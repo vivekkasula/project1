@@ -10,9 +10,7 @@ export default class company extends Component{
 return(
         <SafeAreaView style={{flex:1,}}>
                 <View style={{height:150,alignItems:'center',justifyContent:'center'}}>
-                        <Button
-                        title="side"
-                        />
+                        
                 </View>
         </SafeAreaView>
 
